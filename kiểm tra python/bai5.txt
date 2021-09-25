@@ -1,0 +1,8 @@
+git init: khởi tạo 1 kho chưa git mới
+git add .: để thêm hoặc cập nhập nội dung mới trong thư mục
+git status: check trạng thái hiện tại của file bạn đã thay đổi
+git commit: để tạo tiêu đê hay mô tả cho file
+git remote add origin: liên kết forder với 1 projeck theo link của bạn
+git push origin master: đẩy dữ liệu của forder lên frojeck theo link mình vừa paste
+git clone: tải projeck theo link bạn paste
+git pull: cập nhật dữ liệu mới nhất trên projeck của bạn
